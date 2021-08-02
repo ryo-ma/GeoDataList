@@ -1,0 +1,3744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="submarine_volcano">
+  <name>submarine_volcano</name>
+  <Snippet></Snippet>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <scale>0.625000</scale>
+      <Icon><href>Layer0_Symbol_dac4d90_0.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>ffe65c00</color>
+      <scale>0.833333</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>submarine_volcano</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>F09</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>F09</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>F09</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>手石海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>ていし</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>本州（富士・伊豆半島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>1989年噴火</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>塩基性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>玄武岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>静岡</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>横須賀</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>伊東</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>F09</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (1989)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Basic</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Basalt</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>part of Izu-Tobu Volcanoes</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>SHIZUOKA</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td>YOKOSUKA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td>ITO</td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>34.993333</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>139.13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>伊豆東部火山群の一部</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Teishi Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Pyroclastic cone (maar)</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>マール</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.1299999998651,34.99333000000359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>G02</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G02</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>1</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G02</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>大室海穴 (大室ダシ)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>おおむろかいけつ</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中（2012.7-</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>流紋岩、デイサイト、玄武岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>三宅島</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G02</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Rhyolite, Dacite, Basalt</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td>MIYAKEJIMA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>34.546667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>139.441667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Omuro Hole (Omurodashi)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Composite (compound) volcano</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>複成火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.4416699996244,34.54666999963359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>G13</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G13</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>2</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G13</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>明神海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>みょうじんかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>流紋岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>八丈島</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>八丈所属諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-364 m カルデラ縁の頂</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G13</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Rhyolite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-364 m (top of caldera rim)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td>HACHIJOJIMA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td>HACHIJO SHOZOKU SHOTO</td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>32.1</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>139.85</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Myojin Knoll (Kitabeyonesu Submarine Caldera)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Submarine Caldera, Lava dome</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底カルデラ、溶岩ドーム</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.8500000001024,32.09999999970825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>G14</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G14</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>3</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G14</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>ベヨネース海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>べよねーすかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動（2003）</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G14</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>31.966667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>139.733333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Beyonesu (Bayonnaise) Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 139.7333300002943,31.96667000016405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>G15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>4</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G15</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>明神礁</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>みょうじんしょう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海底噴火（-1970）新島 ・</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>デイサイト、安山岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>八丈島</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>八丈所属諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>鳥島</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-50 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G15</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Latest eruption: AD 1970. New lands formed in 1870, 1896, 1946, 1952 and 1953</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Dacite, Andesite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Beyonesu Rocks</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-50 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td>HACHIJOJIMA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td>HACHIJO SHOZOKU SHOTO</td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td>TORISHIMA</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>31.918611</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>140.020278</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>ベヨネーズ列岩</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Myojinsho (Myojin Reef)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.0202799995452,31.91860999994277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>G20</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G20</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>5</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G20</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>水曜海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>すいようかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>活発な熱水（1991)</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>中性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>安山岩、デイサイト</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-1418 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G20</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity (1991)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Andesite, Dacite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-1418 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>28.6</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>140.633333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Suiyo Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Caldera, Lava dome</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山、カルデラ、溶岩ドーム</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.6333299997109,28.59999999972296,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>G21</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G21</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>6</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G21</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>木曜海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>もくようかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水の噴出が認められる(</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>塩基性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>玄武岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都 （伊豆諸島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-920 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G21</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity (1990)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Basic</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Basalt</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-920 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of IZU ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>28.316667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>140.566667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Mokuyo Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Caldera, Lava dome</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山、カルデラ、溶岩ドーム</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 140.5666699998244,28.31666999990204,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>G23</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G23</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G23</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>海形海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>かいかたかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動（1988)</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>中性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>安山岩、玄武岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島北方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-162 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G23</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity (1988)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Andesite, Basalt</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Kaikata Seamount</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-162 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>26.666667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>海形海山</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Kaikata Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Composite (compound) volcano</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山、複成火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.0000000003967,26.66666999998954,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>G24</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G24</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>8</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G24</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>海徳海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>かいとくかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海底噴火（1984）)、2001</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>塩基性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>玄武岩、デイサイト</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-353 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G24</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (1984), Bubbling (2001)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Basic</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Basalt, Dacite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Kaitoku Seamount</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-353 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>26.125833</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.098611</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>海徳海山</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Kaitoku Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td>Composite (compound) volcano</td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山、複成火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.0986100000449,26.12583000015971,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>G25</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G25</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>9</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G25</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>噴火浅根</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>ふんかあさね</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>1945年まで噴火、2011年・</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>塩基性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>玄武岩、安山岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-14 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G25</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (1968), Bubbling (2011)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Basic</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Basalt, Andesite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Funkaasane</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-14 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>25.449444</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.235278</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>噴火浅根</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Funka Asane</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.2352799999092,25.44944000020591,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>G27</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G27</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G27</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>海勢西の場</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>かいせいにしのば</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海底噴火？（1974)</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G27</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption? (1974)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.883333</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.166667</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Kaisei Nishinoba</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.166670000186,24.88333000007997,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>G29</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G29</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>11</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G29</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>海神海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>かいじんかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>1938年硫黄流出</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>中性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>粗面岩質安山岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G29</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Flushing of molten sulfur? (1938)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Trachyandesite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.551667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.325</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Kaijin Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.3180600002071,24.55167000040753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>G30</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G30</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>12</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G30</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>北福徳堆</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>きたふくとくたい</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海底噴火（1988）</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-73 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G30</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (1988)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Kitafukutokutai</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-73 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.418333</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.415556</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>北福徳堆</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Kita Fukutokutai</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.4155600004318,24.41832999959467,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>G31</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G31</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>13</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G31</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>福徳岡ノ場</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>ふくとくおかのば</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>最新噴火(2010)</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>中性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>粗面安山岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>小笠原諸島</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>火山列島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-14 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G31</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (2010). New islands formed in 1904, 1914 and 1986.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Trachyandesite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Fukutoku-Oka-no-Ba</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-14 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td>OGASAWARA SHOTO</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td>KAZAN RETTO</td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.287778</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.481944</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>福徳岡ノ場</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Fukutoku Okanoba</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.481940000172,24.28778000001678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>G33</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G33</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>14</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G33</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>南日吉海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>みなみひよしかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海底噴火（1976）</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>中性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>粗面安山岩? Bloomerほかでは玄武岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-97 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G33</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption in 1976</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Trachyandesite? (or Basalt)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Minamihiyoshi Seamount</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-97 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>23.501111</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>141.936944</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>南日吉海山</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Minami Hiyoshi Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 141.936939999807,23.5011100000343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>G34</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>G34</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>15</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>G34</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>日光海山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>にっこうかいざん</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>伊豆・小笠原諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>海水変色（1979）</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>塩基性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>玄武岩、安山岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>東京都（火山列島南方）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td>-</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-612 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>G34</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Discolored water (1979)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Basic</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Basalt, Andesite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Nikko Samount</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-612 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>TOKYO (south of VOLCANO ISLANDS)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>23.068889</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>142.305</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>日光海山</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Nikko Seamount</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底火山</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 142.3008300002498,23.06888999991239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>L13</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L13</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>16</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L13</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>南奄西海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>みなみえんせいかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>デイサイト？</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-550 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L13</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Dacite?</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-550 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>28.4</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>127.633333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Minami Ensei Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 127.6333300000433,28.39999999984669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>L14</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L14</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>17</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L14</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>伊平屋海凹北部海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>いへやかいおうほくぶかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>デイサイト、流紋岩？</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-1000 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L14</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Dacite, Rhyolite?</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-1000 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>27.783889</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>126.898333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>North Knoll of Iheya Ridge</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 126.8858299995503,27.7838900004056,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>L15</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L15</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>18</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L15</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>伊是名海穴</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>いぜなかいけつ</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-1300 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L15</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-1300 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>27.25</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>127.068055</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Izena Hole</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 127.0680600001215,27.2500000004602,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>L16</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L16</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>19</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L16</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>西表島北北東海底火山</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>いりおもてじまほくほくとう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>1924年噴火</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>流紋岩</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L16</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine eruption (1924)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Rhyolite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td>Submarine Volcano NNE of Iriomotejima</td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.566667</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>123.933333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td>西表島北北東海底火山</td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Submarine Volcano NNE of Iriomote Jima</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td>海底噴火</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 123.9333299997435,24.56666999966935,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>L17</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L17</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L17</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>鳩間海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>はとまかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td>酸性</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td>デイサイト</td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-1400 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L17</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td>Acid</td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td>Dacite</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-1400 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.85</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>123.833333</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Hatoma Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 123.833330000496,24.849999999818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>L18</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>L18</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>21</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>No</td>
+<td>L18</td>
+</tr>
+<tr>
+<td>Activity_J</td>
+<td>完新世噴火/噴気確認</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Point_SV</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Volcano_J</td>
+<td>第四与那国海丘</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Hiragana</td>
+<td>だいよんよなぐにかいきゅう</td>
+</tr>
+<tr>
+<td>Region_J</td>
+<td>南西諸島</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Geol_Code</td>
+<td>Sub.</td>
+</tr>
+<tr>
+<td>Period_J</td>
+<td>海底火山（海底噴火地点）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Age_J</td>
+<td>熱水活動継続中</td>
+</tr>
+<tr>
+<td>Rock1_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock2_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Pref_J</td>
+<td>沖縄（沖縄トラフ）</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map200k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Map50k_J</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map25k_J</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_J</td>
+<td>-1300 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Vol_No____</td>
+<td>L18</td>
+</tr>
+<tr>
+<td>Geo_Code__</td>
+<td>Sub.</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Period_E</td>
+<td>Submarine volcano (submarine eruption point)</td>
+</tr>
+<tr>
+<td>Age_E</td>
+<td>Submarine hydrothermal activity</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Rock1_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Rock2_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_name_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Altitude_E</td>
+<td>-1300 m</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pref_E</td>
+<td>OKINAWA (OKINAWA TROUGH)</td>
+</tr>
+<tr>
+<td>Map200k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Map50k_E</td>
+<td></td>
+</tr>
+<tr>
+<td>Map25k_E</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>N_Lat</td>
+<td>24.833333</td>
+</tr>
+<tr>
+<td>E_Long</td>
+<td>122.7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>JMA_Name</td>
+<td></td>
+</tr>
+<tr>
+<td>Volcano_E1</td>
+<td>Dai-Yon (No.4) Yonaguni Knoll</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Type_E1</td>
+<td></td>
+</tr>
+<tr>
+<td>Type_J1</td>
+<td></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 122.6999999999515,24.83332999967823,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
